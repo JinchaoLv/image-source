@@ -1,3 +1,3 @@
 # image-source
 
-image source code for Docker Hub.
+Docker hub automated builds for images from gcr.io.
