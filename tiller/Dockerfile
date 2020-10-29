@@ -1,1 +1,1 @@
-FROM https://gcr.io/kubernetes-helm/tiller
+FROM https://gcr.io/kubernetes-helm/t
